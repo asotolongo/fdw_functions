@@ -1,0 +1,4 @@
+#extension
+comment = 'Extension to test extension option in FDW'
+default_version = '0.1'
+superuser = true
